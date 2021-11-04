@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - I work with #DotNetCore, #MSSQL, #GraphQL, #VueJS, #Elasticsearch, #kubernetes
-- I'm interested in #AI, #ML, #AR, #NLP, #CompVision, #CryptoCurrency, #IoT
+- I'm interested in #AI, #ML, #AR, #NLP, #CompVision, #CryptoCurrency, #IoT, #Web3
 
 <!--
 **frostshoxx/frostshoxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
