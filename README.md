@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I work with #DotNetCore, #MSSQL, #GraphQL, #VueJS, #Elasticsearch, #kubernetes
+- I work with #CSharp #DotNetCore, #MSSQL, #GraphQL, #VueJS, #Elasticsearch, #kubernetes #redis
 - I'm interested in #AI, #ML, #AR, #NLP, #CompVision, #CryptoCurrency, #IoT, #Web3
 
 <!--
