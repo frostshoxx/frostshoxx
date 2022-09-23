@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I work with #CSharp #DotNetCore, #MSSQL, #GraphQL, #VueJS, #Elasticsearch, #Kubernetes #Redis #Python #Django #Reactjs
+- I work with #CSharp #DotNetCore, #DotNet, #MSSQL, #GraphQL, #VueJS, #Elasticsearch, #Kubernetes #Redis #Python #Django #Reactjs
 - I'm interested in #AI, #ML, #AR, #NLP, #CompVision, #CryptoCurrency, #IoT, #Web3
 - Open Source Contribution: 
 Redis OM .NET https://github.com/redis/redis-om-dotnet
